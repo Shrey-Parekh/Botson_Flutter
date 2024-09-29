@@ -9,7 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  camera: ^0.10.6
+  permission_handler: ^10.0.0  
+  mediapipe: ^0.6.0
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
